@@ -1,0 +1,3 @@
+﻿  RollingDice.cpp
+C:\Users\USER\Desktop\고소실\week1\실습\실습\week1_2\RollingDice.cpp(20,28): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  ExamWin32.vcxproj -> C:\Users\USER\Desktop\고소실\week1\실습\실습\week1_2\Debug\ExamWin32.exe

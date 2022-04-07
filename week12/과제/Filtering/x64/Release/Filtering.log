@@ -1,0 +1,20 @@
+﻿  Compiling CUDA source file cuda_code.cu...
+  
+  C:\Users\USER\Desktop\고소실\week12\과제\Filtering>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\include"     --keep-dir x64\Release  -maxrregcount=0  --machine 64 --compile -cudart static    -DWIN32 -D_WINDOWS -DNDEBUG -D_MBCS -D_AFXDLL -Xcompiler "/EHsc /W3 /nologo /O2 /Fdx64\Release\vc142.pdb /FS   /MD " -o x64\Release\cuda_code.cu.obj "C:\Users\USER\Desktop\고소실\week12\과제\Filtering\cuda_code.cu" 
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\cuda_code.cu(82): warning #177-D: variable "i" was declared but never referenced
+  
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\cuda_code.cu(82): warning #177-D: variable "j" was declared but never referenced
+  
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\cuda_code.cu(82): warning #177-D: variable "k" was declared but never referenced
+  
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\cuda_code.cu(257): error : no operator "*" matches these operands
+              operand types are: dim3 * int
+  
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\cuda_code.cu(257): error : no operator "*" matches these operands
+              operand types are: dim3 * int
+  
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\cuda_code.cu(236): warning #177-D: variable "total_pixel" was declared but never referenced
+  
+  2 errors detected in the compilation of "C:/Users/USER/Desktop/°i¼O½C/week12/°uA|/Filtering/cuda_code.cu".
+  cuda_code.cu
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\CUDA 11.5.targets(785,9): error MSB3721: ""C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\include"     --keep-dir x64\Release  -maxrregcount=0  --machine 64 --compile -cudart static    -DWIN32 -D_WINDOWS -DNDEBUG -D_MBCS -D_AFXDLL -Xcompiler "/EHsc /W3 /nologo /O2 /Fdx64\Release\vc142.pdb /FS   /MD " -o x64\Release\cuda_code.cu.obj "C:\Users\USER\Desktop\고소실\week12\과제\Filtering\cuda_code.cu"" 명령이 종료되었습니다(코드: 1).

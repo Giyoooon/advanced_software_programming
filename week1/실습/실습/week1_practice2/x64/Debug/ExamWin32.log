@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  RollingDice.cpp
+C:\Users\USER\Desktop\고소실\week1\실습\실습\week1_2\RollingDice.cpp(19,28): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\USER\Desktop\고소실\week1\실습\실습\week1_2\RollingDice.cpp(29,3): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.

@@ -1,0 +1,3 @@
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\Debug\project6.exe
+C:\Users\USER\Desktop\고소실\week6\project6_배포용_과제\Debug\project6.exe
+C:\Users\USER\Desktop\고소실\week6\project6_배포용_과제\Debug\project6.pdb

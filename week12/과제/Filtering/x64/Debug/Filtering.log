@@ -1,0 +1,14 @@
+﻿  FilteringView.cpp
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\FilteringView.cpp(175,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\FilteringView.cpp(219,43): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\FilteringView.cpp(223,56): warning C4244: '=': 'LONGLONG'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\FilteringView.cpp(160,16): warning C4101: 'gray' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\FilteringView.cpp(281,6): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\FilteringView.cpp(281,9): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\FilteringView.cpp(282,15): warning C4101: 'mean' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\FilteringView.cpp(264,16): warning C4101: 'gray' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\FilteringView.cpp(351,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\FilteringView.cpp(396,39): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\FilteringView.cpp(400,51): warning C4244: '=': 'LONGLONG'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week12\과제\Filtering\FilteringView.cpp(336,16): warning C4101: 'gray' :참조되지 않은 지역 변수입니다.
+  Filtering.vcxproj -> C:\Users\USER\Desktop\고소실\week12\과제\x64\Debug\Filtering.exe

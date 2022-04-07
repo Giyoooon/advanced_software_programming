@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  DistributHistogram.cpp
+C:\Users\USER\Desktop\고소실\week1\실습\실습\week1_1\DistributHistogram.cpp(56,50): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week1\실습\실습\week1_1\DistributHistogram.cpp(56,25): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+DSH_EasyWin32.lib(EasyAPI.obj) : fatal error LNK1112: 'x86' 모듈 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.

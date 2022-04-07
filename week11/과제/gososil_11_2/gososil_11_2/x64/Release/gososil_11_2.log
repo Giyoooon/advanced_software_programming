@@ -1,0 +1,9 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\USER\Desktop\고소실\week11\과제\gososil_11_2\gososil_11_2>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\include"     --keep-dir x64\Release  -maxrregcount=0  --machine 64 --compile -cudart static    -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /Fdx64\Release\vc142.pdb /FS   /MD " -o x64\Release\kernel.cu.obj "C:\Users\USER\Desktop\고소실\week11\과제\gososil_11_2\gososil_11_2\kernel.cu" 
+C:\Users\USER\Desktop\고소실\week11\과제\gososil_11_2\gososil_11_2\kernel.cu(90): warning #177-D: variable "i" was declared but never referenced
+  
+  kernel.cu
+     C:\Users\USER\Desktop\고소실\week11\과제\gososil_11_2\x64\Release\gososil_11_2.lib 라이브러리 및 C:\Users\USER\Desktop\고소실\week11\과제\gososil_11_2\x64\Release\gososil_11_2.exp 개체를 생성하고 있습니다.
+  LINK : /LTCG를 지정했지만 코드를 생성할 필요가 없습니다. 명령줄에서 /LTCG를 제거하면 링커 성능이 향상됩니다.
+  gososil_11_2.vcxproj -> C:\Users\USER\Desktop\고소실\week11\과제\gososil_11_2\x64\Release\gososil_11_2.exe

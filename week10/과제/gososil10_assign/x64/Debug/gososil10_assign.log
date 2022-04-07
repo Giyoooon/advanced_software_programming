@@ -1,0 +1,16 @@
+﻿  gososil_10_과제.cpp
+C:\Users\USER\Desktop\고소실\week10\과제\gososil10_assign\gososil_10_과제.cpp(9,25): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+C:\Users\USER\Desktop\고소실\week10\과제\gososil10_assign\gososil_10_과제.cpp(47,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\USER\Desktop\고소실\week10\과제\gososil10_assign\gososil_10_과제.cpp(73,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Desktop\고소실\week10\과제\gososil10_assign\gososil_10_과제.cpp(110,28): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\USER\Desktop\고소실\week10\과제\gososil10_assign\gososil_10_과제.cpp(172,36): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week10\과제\gososil10_assign\gososil_10_과제.cpp(173,37): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week10\과제\gososil10_assign\gososil_10_과제.cpp(176,38): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week10\과제\gososil10_assign\gososil_10_과제.cpp(177,35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week10\과제\gososil10_assign\gososil_10_과제.cpp(195,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week10\과제\gososil10_assign\gososil_10_과제.cpp(221,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week10\과제\gososil10_assign\gososil_10_과제.cpp(278,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week10\과제\gososil10_assign\gososil_10_과제.cpp(303,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\고소실\week10\과제\gososil10_assign\gososil_10_과제.cpp(306,14): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\USER\Desktop\고소실\week10\과제\gososil10_assign\gososil_10_과제.cpp(316,14): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  gososil10_assign.vcxproj -> C:\Users\USER\Desktop\고소실\week10\과제\x64\Debug\gososil10_assign.exe

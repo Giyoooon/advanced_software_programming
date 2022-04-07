@@ -1,0 +1,12 @@
+﻿  main.cpp
+  program3_1.cpp
+C:\Users\USER\Desktop\고소실\week6\과제\project6_배포용\program3_1.cpp(10,2): error C2562: 'program3_1': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\Desktop\고소실\week6\과제\project6_배포용\program3_1.cpp(8): message : 'program3_1' 선언을 참조하십시오.
+  program3_2.cpp
+C:\Users\USER\Desktop\고소실\week6\과제\project6_배포용\program3_2.cpp(9,2): error C2562: 'program3_2': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\Desktop\고소실\week6\과제\project6_배포용\program3_2.cpp(8): message : 'program3_2' 선언을 참조하십시오.
+  program3_3.cpp
+C:\Users\USER\Desktop\고소실\week6\과제\project6_배포용\program3_3.cpp(9,2): error C2562: 'program3_3': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\Desktop\고소실\week6\과제\project6_배포용\program3_3.cpp(8): message : 'program3_3' 선언을 참조하십시오.
+  program3_4.cpp
+  코드를 생성하고 있습니다...

@@ -1,0 +1,40 @@
+﻿  main.cpp
+  practice3_1.cpp
+  practice3_2.cpp
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_2.cpp(54,70): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_2.cpp(54,70): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_2.cpp(20,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_2.cpp(21,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_2.cpp(23,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_2.cpp(29,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_2.cpp(35,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_2.cpp(46,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_2.cpp(44,10): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+  practice3_3.cpp
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_3.cpp(38,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  practice3_4.cpp
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_4.cpp(43,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  practice3_5.cpp
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_5.cpp(27,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  practice3_6.cpp
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_6.cpp(36,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  practice3_7.cpp
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_7.cpp(26,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  practice3_8.cpp
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\practice3_8.cpp(43,15): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  assignment3_1.cpp
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\assignment3_1.cpp(42,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\assignment3_1.cpp(43,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\assignment3_1.cpp(44,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\assignment3_1.cpp(46,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\assignment3_1.cpp(47,11): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\assignment3_1.cpp(48,11): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\assignment3_1.cpp(73,3): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\assignment3_1.cpp(77,5): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\assignment3_1.cpp(79,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\assignment3_1.cpp(82,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\15U560\Desktop\2021-2\고소실\week6\과제\project6_배포용\assignment3_1.cpp(92,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  assignment3_2.cpp
+  assignment3_3.cpp
+  assignment3_4.cpp
+  코드를 생성하고 있습니다...
